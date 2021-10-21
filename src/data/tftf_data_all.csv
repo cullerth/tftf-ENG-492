@@ -1,16 +1,9 @@
 Title,Description,Deck
 WPWS prompt,"In the year 2121, in a future you would like to live in,",Arc
-<<<<<<< HEAD
 Growth,"In a 'growth' future, a future in which 'progress' has continued",Arc
 Collapse,"In a 'collapse' future, a future in which society as we know it has come apart",Arc
 Discipline,"In a 'discipline' future, a future in which order is deliberately coordinated or imposed",Arc
 Transformation,"In a 'transformation' future, a future in which a profound historical evolution has occurred",Arc
-=======
-Growth,a future in which “progress” has continued,Arc
-Collapse,a future in which society as we know it has come apart,Arc
-Discipline,a future in which order is deliberately coordinated or imposed,Arc
-Transformation,a future in which a profound historical evolution has occurred,Arc
->>>>>>> main
 something else,,Terrain
 agriculture,,Terrain
 the brain,,Terrain
