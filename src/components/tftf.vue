@@ -141,7 +141,8 @@ li {
     background-color: #fff;
     color: rgb(202, 189, 189);
     max-width: 800px;
-    max-height: 300px;
+    /* max-height: 800px; */
+    height: 410px; 
     margin: 0 auto; 
     padding: 25px; 
     column-gap: 15px;
@@ -171,7 +172,8 @@ li {
     background-color: #fff;
     color: rgb(202, 189, 189);
     max-width: 300px;
-    max-height: 800px;
+    /* max-height: 800px; */
+    height: 1000px;
     margin: 0 auto; 
     padding: 25px; 
     column-gap: 15px;
