@@ -19,14 +19,11 @@ gift,,Object
 headline,,Object
 implant,,Object
 instrument,,Object
-jacket,,Object
 kit,,Object
 law,,Object
 machine,,Object
 magazine cover,,Object
 map,,Object
-mask,,Object
-military uniform,,Object
 monument,,Object
 passport,,Object
 pill,,Object
@@ -48,15 +45,10 @@ symbol,,Object
 tattoo,,Object
 tool,,Object
 toy,,Object
-uniform,,Object
 vehicle,,Object
 video,,Object
-weapon,,Object
 wildcard,artifact of your own choice,Object
-work uniform,,Object
-face masks,wpws,Object
 tool,wpws,Object
-spear,wpws,Object
 fertilizer,wpws,Object
 fossel fuel,wpws,Object
 plant,,Object
@@ -82,7 +74,6 @@ entertainment,,Terrain
 environment,,Terrain
 equality,,Terrain
 family,,Terrain
-fashion,,Terrain
 flight,,Terrain
 forest,,Terrain
 genetics,,Terrain
@@ -112,9 +103,8 @@ space,,Terrain
 sports,,Terrain
 theatre,,Terrain
 travel,,Terrain
-war,,Terrain
 water,,Terrain
-weath,,Terrain
+wealth,,Terrain
 work,,Terrain
 zombies,,Terrain
 the zoo,,Terrain
