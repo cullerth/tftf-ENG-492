@@ -1,10 +1,71 @@
 Title,Description,Deck
-WPWS prompt,"In the year 2121, in a future you would like to live in,",Arc
-Growth,"In a 'growth' future, a future in which 'progress' has continued",Arc
-Collapse,"In a 'collapse' future, a future in which society as we know it has come apart",Arc
-Discipline,"In a 'discipline' future, a future in which order is deliberately coordinated or imposed",Arc
-Transformation,"In a 'transformation' future, a future in which a profound historical evolution has occurred",Arc
-something else,,Terrain
+WPWS prompt,"In the year 2100, in a future you would like to live in,",Arc
+Growth,In a future in which “progress” has continued,Arc
+Collapse,In a future in which society as we know it has come apart,Arc
+Discipline,In a future in which order is deliberately coordinated or imposed,Arc
+Transformation,In a future in which a profound historical evolution has occurred,Arc
+advertisement,,Object
+artwork,,Object
+book,,Object
+building,,Object
+clothing,,Object
+corporation,,Object
+device,,Object
+document,,Object
+event,,Object
+festival,,Object
+game,,Object
+gift,,Object
+headline,,Object
+implant,,Object
+instrument,,Object
+jacket,,Object
+kit,,Object
+law,,Object
+machine,,Object
+magazine cover,,Object
+map,,Object
+mask,,Object
+military uniform,,Object
+monument,,Object
+passport,,Object
+pill,,Object
+plant,,Object
+postcard,,Object
+poster,,Object
+product,,Object
+prosthetic,,Object
+public service announcement,,Object
+relic,,Object
+ritual,,Object
+show,,Object
+slogan,,Object
+snack,,Object
+song,,Object
+souvenir,,Object
+statue,,Object
+symbol,,Object
+tattoo,,Object
+tool,,Object
+toy,,Object
+uniform,,Object
+vehicle,,Object
+video,,Object
+weapon,,Object
+wildcard,artifact of your own choice,Object
+work uniform,,Object
+face masks,wpws,Object
+tool,wpws,Object
+spear,wpws,Object
+fertilizer,wpws,Object
+fossel fuel,wpws,Object
+plant,,Object
+tree,,Object
+animal,,Object
+island,,Object
+film,,Object
+video,,Object
+profession,,Object
 agriculture,,Terrain
 the brain,,Terrain
 childhood,,Terrain
@@ -15,7 +76,6 @@ cloning,,Terrain
 communications,,Terrain
 court,,Terrain
 disease,,Terrain
-drones,,Terrain
 the economy,,Terrain
 education,,Terrain
 entertainment,,Terrain
@@ -33,7 +93,6 @@ hobbies,,Terrain
 home,,Terrain
 identity,,Terrain
 insects,,Terrain
-intellectual property,,Terrain
 journalism,,Terrain
 justice,,Terrain
 learning,,Terrain
@@ -49,97 +108,17 @@ power,,Terrain
 religion,,Terrain
 robots,,Terrain
 sex,,Terrain
-shopping,,Terrain
 space,,Terrain
 sports,,Terrain
 theatre,,Terrain
 travel,,Terrain
 war,,Terrain
 water,,Terrain
-wealth,,Terrain
+weath,,Terrain
 work,,Terrain
 zombies,,Terrain
 the zoo,,Terrain
-wildcard,topic or location of your choice,Terrain
-thing,,Object
-advertisement,,Object
-artwork,,Object
-beverage,,Object
-blanket,,Object
-book,,Object
-bottle,,Object
-box,,Object
-brochure,,Object
-building,,Object
-candy,,Object
-carpet,,Object
-clothing,,Object
-corporation,,Object
-curtains,,Object
-device,,Object
-document,,Object
-event,,Object
-festival,,Object
-flag,,Object
-game,,Object
-gift,,Object
-hat,,Object
-headline,,Object
-implant,,Object
-instrument,,Object
-jacket,,Object
-jewelry,,Object
-kit,,Object
-law,,Object
-logo,,Object
-lotion,,Object
-machine,,Object
-magazine cover,,Object
-map,,Object
-mask,,Object
-military uniform,,Object
-monument,,Object
-overalls,,Object
-pants,,Object
-passport,,Object
-pill,,Object
-plant,,Object
-postcard,,Object
-poster,,Object
-product,,Object
-prosthetic,,Object
-public service announcement,,Object
-raincoat,,Object
-relic,,Object
-ritual,,Object
-rug,,Object
-scarf,,Object
-scrubs,,Object
-shirt,,Object
-shoes,,Object
-show,,Object
-slogan,,Object
-snack,,Object
-socks,,Object
-song,,Object
-souvenir,,Object
-spacesuit,,Object
-statue,,Object
-sticker,,Object
-symbol,,Object
-t-shirt,,Object
-tattoo,,Object
-tool,,Object
-toy,,Object
-underwear,,Object
-uniform,,Object
-vehicle,,Object
-video,,Object
-weapon,,Object
-wildcard,artifact of your own choice,Object
-work uniform,,Object
-Italy,wpws,Terrain
-face masks,wpws,Object
+wildcard,a topic or location of your choice,Terrain
 agricultural system,wpws,Terrain
 pandemic,wpws,Terrain
 technology,wpws,Terrain
@@ -155,8 +134,6 @@ Cherokee Nation,wpws,Terrain
 the Outer Banks,wpws,Terrain
 Charlanta,wpws,Terrain
 Piedmont Region,wpws,Terrain
-Ghana,wpws,Terrain
-Madagascar,wpws,Terrain
 tourism,wpws,Terrain
 transportation,wpws,Terrain
 telecommunication,wpws,Terrain
@@ -173,11 +150,13 @@ insect habitat,wpws,Terrain
 bee hive,wpws,Terrain
 small town,wpws,Terrain
 grassland,wpws,Terrain
-tool,wpws,Object
-spear,wpws,Object
-sponge,wpws,Object
 laboratory,wpws,Terrain
 university,wpws,Terrain
-fertilizer,wpws,Object
-fossel fuel,wpws,Object
 International Space Station,wpws,Terrain
+happiness,,Terrain
+empathy,,Terrain
+solidarity,,Terrain
+love,,Terrain
+equality,,Terrain
+film,,Terrain
+video,,Terrain

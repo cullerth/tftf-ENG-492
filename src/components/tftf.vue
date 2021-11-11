@@ -35,7 +35,7 @@
     <br>
     <h2><i> What is it? </i></h2>
     <p>
-      Use <a href="https://docs.google.com/presentation/d/1VoBZTmjG2UpjqwyJLg8GF4JeLEkhmag5Ru-uG4kXxes/copy">this template</a> to respond to the prompt. 
+      Use <a href="https://docs.google.com/presentation/d/1-aDeVnUXjxogz2Zdl_zG4A5rRZJ5oLuvdP-G1S9qf6M/copy">this template</a> to respond to the prompt. 
       <br>
     </p>  
     <h3>  </h3>
