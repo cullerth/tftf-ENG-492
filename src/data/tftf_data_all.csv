@@ -1,9 +1,9 @@
 Title,Description,Deck
 WPWS prompt,"In the year 2100, in a future you would like to live in,",Arc
-Growth,In a future in which “progress” has continued,Arc
-Collapse,In a future in which society as we know it has come apart,Arc
-Discipline,In a future in which order is deliberately coordinated or imposed,Arc
-Transformation,In a future in which a profound historical evolution has occurred,Arc
+Growth,'In a "growth" future -- in which “progress” has continued,',Arc
+Collapse,'In a "collapse" future -- in which society as we know it has come apart,',Arc
+Discipline,'In a "discipline" future -- in which order is deliberately coordinated or imposed,',Arc
+Transformation,'In a "transformation" future -- in which a profound historical evolution has occurred,',Arc
 advertisement,,Object
 artwork,,Object
 book,,Object
